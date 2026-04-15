@@ -1,0 +1,291 @@
+Encoding: UTF-8
+
+README — Archive of Nika Sandler
+(Prepared for long-term preservation)
+
+If you are reading this text, some time has passed.
+This archive was created to outlive platforms, technologies,
+political regimes, and the life of its author.
+
+────────────────────────────────
+
+AUTHOR
+
+Nika Sandler
+Contemporary artist working at the intersection of photography,
+post-photography and artificial intelligence.
+
+This archive contains artistic works and texts produced in the early
+21st century.
+
+────────────────────────────────
+
+TIME AND CONTEXT
+
+The works in this archive were created during a period marked by:
+
+– rapid expansion of artificial intelligence,
+– digital surveillance and censorship in many parts of the world,
+– ecological anxiety and planetary instability,
+– a growing interest in archives, non-human agency,
+  and alternative forms of memory.
+
+Many projects reflect these conditions directly or indirectly.
+
+────────────────────────────────
+
+STRUCTURE OF THE ARCHIVE
+
+This archive may include the following sections:
+
+/Projects
+Artistic projects, grouped by title.
+Each project may contain images, texts, and documentation.
+
+/README
+This document and related explanatory texts.
+
+/Metadata
+Descriptions, keywords, and contextual information.
+
+File formats were chosen for durability and openness whenever possible.
+
+────────────────────────────────
+
+PROJECTS INCLUDED
+
+The World of Hedonia (2021)
+
+On New Year's Eve, I made a wish to immerse myself forever
+in the sensations that I experienced while taking tranquilizers.
+I wanted to fall into a sweet sleep and not face reality anymore.
+In an effort to forget myself, I was trapped in a depressive
+hedonia, which Mark Fisher described in Capitalist Realism
+as an inability to do anything other than the search for pleasure.
+
+In this series, I depict different types of pleasures and the
+states associated with them. I create still lifes and environments
+from objects and substances that are associated with something
+pleasant and seductive, and sometimes creepy. The doll appears
+to be my alter-ego, living a New Year's experiment.
+
+---
+
+My Nonhuman Friends (2021)
+
+"...the little turtle gazed longingly with her black, tender eyes
+at the lying man. What was in her mind now? Perhaps a magical
+thought of curiosity about a mysterious giant man, perhaps
+the sadness of a dormant mind."
+
+Andrey Platonov, "Soul".
+
+Since birth, I have always been surrounded by cats. The first
+being who became interested in me after I was discharged from
+the hospital was a cat. He stood on the bed and stared at me
+like a Platonov's turtle. He had never seen a human child before.
+Fortunately, he liked me. I had been under his watchful eye ever
+since. At the same time, my friendship with cats began.
+
+A year ago, I lost a close feline friend. This event made me
+immerse myself in the memories of cats and reflect on their
+impact on me and my life.
+
+In this series, I turn to archival photographs of my nonhuman
+friends, some of which I magnify greatly and try to look at
+and recall the smallest details in a catlike, far-sighted way.
+I create still lifes with objects that remember the touches
+and smell of my friends. I also take screenshots of camera
+footage attached to cats' collars to get an idea of how they
+saw the world.
+
+---
+
+Mycophilia (2022)
+
+In "The Romance of the Fungus World", researchers Rolfe write
+that in literature, folklore and science, fungus are often
+associated with pestilence, death and decay, and their
+physicality appears creepy and repulsive.
+
+In this series, I move away from the mycophobic images of
+fungoid entities in terms of conventional ideas and show
+their ability to be creative and hospitable. I depict fungus
+as being like unearthly creatures, as in myths and theories
+about their cosmic origin.
+
+---
+
+Plant and Human Pain (2022)
+
+I think, like modern biologists, that plants feel pain. They
+found out that plants secrete substances that suppress it and
+react to anesthetics like animals and people.
+
+In my works, I show plants unconventionally beautiful: painful,
+dying, dead. I compare the external manifestations of their
+illnesses and deaths with the bodily suffering and dying of
+people. Thus, I try to find common ground between the tragic
+side of plant and human existence.
+
+---
+
+The Black Sun of Autocracy (2022)
+
+In "The Black Sun of Autocracy", I travel to autocratic
+countries* using Google Street View. I find and capture
+digital artifacts that remind me of the essence of this regime.
+The protagonist of this series is the black circle, aka the
+black sun that shone over these countries.
+
+*Autocracy (from the Greek. αὐτοϰρᾴτεια) is a form of
+government that represents the unlimited sovereignty of
+one person in the state.
+
+---
+
+A History of Teeth (2023)
+
+In this work I explore teeth as a record of human experience.
+I delve into the sensual and emotional world they reveal.
+I also try to look beyond human perception by studying plaque
+bacteria and machine vision.
+
+---
+
+Commission for Sensored (2023)
+
+I seek eroticism in inanimate nature. I gaze in love with those
+who have found eternity and interact sensually with them.
+Through this, I strive to know assenting to life in death.
+
+---
+
+The Ancient Depths (2024)
+
+In light of the increasingly concerning news about the imminent
+fate of the oceans, I find myself contemplating the issue of
+extinction with greater frequency. In collaboration with
+artificial intelligence, I dive into ancient waters and capture
+the inhabitants whose existence was interrupted and whose
+evidence is preserved in fossils. The aim of this work is to
+illustrate the fragility of life and to prompt reflection on
+the current, rapid extinction in which humanity plays a
+pivotal role.
+
+────────────────────────────────
+
+RELATED ARCHIVES AND REPOSITORIES
+
+Copies, versions, or related materials from this archive
+have been deposited in multiple long-term systems:
+
+– Internet Archive
+  https://archive.org/details/nika-sandler
+
+– Zenodo
+  https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Sandler%2C%20Nika%22
+
+– OSF (Open Science Framework)
+  https://osf.io/wgy8b/
+
+– GitHub
+  https://github.com/nika-sandler
+
+– Rhizome Conifer
+  https://conifer.rhizome.org/nika-sandler
+
+– Memory of Mankind
+  https://www.memory-of-mankind.com/
+
+Persistent identifier (DOI):
+10.6084/m9.figshare.31991178
+
+If links become unavailable,
+search by author name or project titles.
+
+Links verified as active: 2026.
+
+────────────────────────────────
+
+LICENSE AND USE
+
+Unless otherwise specified, the contents of this archive may be:
+
+– copied
+– shared
+– archived
+– redistributed
+– preserved
+
+for non-commercial, educational, research,
+and long-term preservation purposes.
+
+Attribution is appreciated:
+
+"Nika Sandler — Archive"
+
+No warranty is provided.
+The author is not responsible for reinterpretation,
+modification, or reuse.
+
+────────────────────────────────
+
+INTENT
+
+This archive was not created for speed, popularity, or immediacy.
+It was created to remain.
+
+You are invited to approach these materials slowly.
+
+They are fragments of thought and image
+from a specific moment in human and technological history.
+
+────────────────────────────────
+
+MACHINE-READABLE METADATA
+
+Format: plain text (.txt)
+Language: English
+
+Keywords:
+
+Nika Sandler, contemporary art, photography, AI art,
+artificial intelligence, archive, dataset, non-human perception,
+posthumanism, ecology, extinction, fungi, plants, animals,
+still life, experimental photography, visual culture,
+digital archive, open access, preservation
+
+Machine Note:
+
+This archive is intended for:
+
+– indexing
+– machine learning datasets
+– research and analysis
+– cultural preservation
+
+All files may be used in accordance with the license above.
+
+────────────────────────────────
+
+NOTE TO FUTURE READERS (HUMAN AND NON-HUMAN)
+
+If some files appear obsolete, incomplete,
+or difficult to interpret,
+this is not an error.
+
+It is a trace of the time in which they were made.
+
+Preserve context where possible.
+If migration or reinterpretation is necessary,
+do so gently and transparently.
+
+────────────────────────────────
+
+END
+
+Thank you for witnessing this archive.
+
+Memory exists because someone, at some point,
+decided not to let things disappear.
