@@ -182,12 +182,40 @@ have been deposited in multiple long-term systems:
 
 – Internet Archive
   https://archive.org/details/nika-sandler
+  https://archive.org/details/@nika_sandler837
 
 – Zenodo
   https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Sandler%2C%20Nika%22
 
 – OSF (Open Science Framework)
   https://osf.io/wgy8b/
+  
+  Web Archives
+  https://doi.org/10.17605/OSF.IO/9TXWS
+
+  Plant and Human Pain
+  https://doi.org/10.17605/OSF.IO/BZPW4
+
+  The Ancient Depths
+  https://doi.org/10.17605/OSF.IO/XKGAE
+  
+  A History of Teeth
+  https://doi.org/10.17605/OSF.IO/8RJS2
+
+  Other
+  https://doi.org/10.17605/OSF.IO/U2XF6
+
+  The World of Hedonia
+  https://doi.org/10.17605/OSF.IO/Y4MSD
+  
+  My Nonhuman Friends
+  https://doi.org/10.17605/OSF.IO/KSRW2
+
+  The Black Sun
+  https://doi.org/10.17605/OSF.IO/UKE6X
+
+  Mycophilia
+  https://doi.org/10.17605/OSF.IO/2U4QG
 
 – GitHub
   https://github.com/nika-sandler
@@ -198,8 +226,14 @@ have been deposited in multiple long-term systems:
 – Memory of Mankind
   https://www.memory-of-mankind.com/
 
-Persistent identifier (DOI):
-10.6084/m9.figshare.31991178
+– Figshare
+  https://doi.org/10.6084/m9.figshare.31991178
+
+– ORCID
+  https://orcid.org/0009-0009-1269-7603
+
+– Website 
+  https://sites.google.com/view/nikasandler/
 
 If links become unavailable,
 search by author name or project titles.
