@@ -8,7 +8,7 @@ This repository includes:
 - Accompanying project materials
 - License information
 ## DOI and Archiving
-The project is also archived on Zenodo (https://zenodo.org/records/15670190), where it has been assigned a permanent DOI for citation and long-term preservation.
+The project is also archived on Zenodo (https://doi.org/10.5281/zenodo.15670189), where it has been assigned a permanent DOI for citation and long-term preservation.
 
 Other Archives:
 
@@ -36,9 +36,13 @@ Other Archives:
 
   https://github.com/nika-sandler
 
+  https://github.com/nika-sandler/the-world-of-hedonia
+
 – Rhizome Conifer
 
   https://conifer.rhizome.org/nika-sandler
+
+  https://conifer.rhizome.org/nika-sandler/the-world-of-hedonia
 
 – Memory of Mankind
 
