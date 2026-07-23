@@ -52,6 +52,37 @@ File formats were chosen for durability and openness whenever possible.
 
 ────────────────────────────────
 
+ARCHIVE TOPOGRAPHY
+
+This archive exists across multiple repositories, institutions, and storage systems. 
+No single platform is intended to function as its sole custodian.
+
+A continuously updated map of the archive, including repository links, 
+preservation notes, metadata, and documentation, can be found at:
+
+https://nika-sandler.github.io
+
+Primary repositories include:
+
+• Internet Archive
+• Zenodo
+• Open Science Framework (OSF)
+• GitHub
+• Memory of Mankind
+
+The archive portal serves as an entry point. 
+Individual repositories, local backups, checksums, and distributed copies 
+together constitute the archive's preservation strategy.
+
+This document is intended to remain readable independently 
+of any particular platform, service, or technology.
+
+Last major revision of this document: July 2026.
+
+https://nika-sandler.github.io
+
+────────────────────────────────
+
 PROJECTS INCLUDED
 
 The World of Hedonia (2021)
@@ -282,11 +313,14 @@ have been deposited in multiple long-term systems:
   https://conifer.rhizome.org/nika-sandler/the-black-sun
   https://conifer.rhizome.org/nika-sandler/the-world-of-hedonia
 
-– Memory of Mankind
-  https://www.memory-of-mankind.com/
-
 – Figshare
   https://doi.org/10.6084/m9.figshare.31991178
+
+– Works preserved in Memory of Mankind
+  https://www.memory-of-mankind.com/
+
+– The zine The Black Sun of Autocracy preserved in the archive of The Photographers' Gallery
+  https://thephotographersgallery.org.uk/
 
 – ORCID
   https://orcid.org/0009-0009-1269-7603
@@ -382,3 +416,5 @@ Thank you for witnessing this archive.
 
 Memory exists because someone, at some point,
 decided not to let things disappear.
+
+
