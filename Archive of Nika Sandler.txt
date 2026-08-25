@@ -292,13 +292,28 @@ have been deposited in multiple long-term systems:
   https://github.com/nika-sandler/my-nonhuman-friends
   https://github.com/nika-sandler/my-nonhuman-friends-2
   https://github.com/nika-sandler/photobook-my-nonhuman-friends
+  https://github.com/nika-sandler/TIFF-My-Nonhuman-Friends
   https://github.com/nika-sandler/a-history-of-teeth
+  https://github.com/nika-sandler/TIFF-A-History-of-Teeth
   https://github.com/nika-sandler/mycophilia
+  https://github.com/nika-sandler/TIFF-Mycophilia
   https://github.com/nika-sandler/plant-and-human-pain
+  https://github.com/nika-sandler/TIFF-Plant-and-Human-Pain
   https://github.com/nika-sandler/sensored
   https://github.com/nika-sandler/the-ancient-depths
+  https://github.com/nika-sandler/TIFF-The-Ancient-Depths
   https://github.com/nika-sandler/the-black-sun
+  https://github.com/nika-sandler/TIFF-The-Black-Sun
   https://github.com/nika-sandler/the-world-of-hedonia
+  https://github.com/nika-sandler/TIFF-The-World-of-Hedonia
+
+– Software Heritage
+
+  Software Heritage Origin: 
+  https://github.com/nika-sandler/nika-sandlers-spore-archive
+  Software Heritage SWHID: 
+  Software Heritage Snapshot:
+
 
 – Rhizome Conifer
   https://conifer.rhizome.org/nika-sandler
