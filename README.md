@@ -46,6 +46,8 @@ Other Archives:
 
   https://github.com/nika-sandler/the-world-of-hedonia
 
+  https://github.com/nika-sandler/TIFF-The-World-of-Hedonia
+
 – Rhizome Conifer
 
   https://conifer.rhizome.org/nika-sandler
