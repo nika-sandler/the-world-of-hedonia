@@ -309,11 +309,82 @@ have been deposited in multiple long-term systems:
 
 – Software Heritage
 
-  Software Heritage Origin: 
-  https://github.com/nika-sandler/nika-sandlers-spore-archive
-  Software Heritage SWHID: 
-  Software Heritage Snapshot:
+  Software Heritage Origin: https://github.com/nika-sandler/nika-sandlers-spore-archive
+  Software Heritage SWHID: swh:1:dir:b96367005eac8b8ca0dc440489f2a7bd77427452
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/b96367005eac8b8ca0dc440489f2a7bd77427452/
 
+  Software Heritage Origin: https://github.com/nika-sandler/my-nonhuman-friends
+
+  Software Heritage SWHID: swh:1:dir:735f53774164e3164c81b24429bce23ae29b0894
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/735f53774164e3164c81b24429bce23ae29b0894
+
+  Software Heritage Origin: https://github.com/nika-sandler/my-nonhuman-friends-2
+  Software Heritage SWHID: swh:1:dir:76e60dc27fc426c81b3dd369ef50ae9aeae5706a
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/76e60dc27fc426c81b3dd369ef50ae9aeae5706a
+
+  Software Heritage Origin: https://github.com/nika-sandler/photobook-my-nonhuman-friends
+  Software Heritage SWHID: swh:1:dir:dda36dd882f89cd8fba3fb90fe75905a5f51ed9a
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/swh:1:dir:dda36dd882f89cd8fba3fb90fe75905a5f51ed9a
+
+  Software Heritage Origin: https://github.com/nika-sandler/TIFF-My-Nonhuman-Friends
+  Software Heritage SWHID: swh:1:dir:4f592fecdab1192f2a65832c4e45ad959bb442bc
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/4f592fecdab1192f2a65832c4e45ad959bb442bc
+
+  Software Heritage Origin: https://github.com/nika-sandler/a-history-of-teeth
+  Software Heritage SWHID: swh:1:dir:7008ac769940b5a8950fb42f28e718858f69c4f9
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/7008ac769940b5a8950fb42f28e718858f69c4f9
+
+  Software Heritage Origin: https://github.com/nika-sandler/TIFF-A-History-of-Teeth
+  Software Heritage SWHID: swh:1:dir:175e99e7ed7a8dc437696beaa8003db4a73d037f
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/175e99e7ed7a8dc437696beaa8003db4a73d037f
+
+  Software Heritage Origin: https://github.com/nika-sandler/mycophilia
+  Software Heritage SWHID: swh:1:dir:d190285907a1d0975bf0d326a7f7433f54839f8f
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/d190285907a1d0975bf0d326a7f7433f54839f8f
+
+  Software Heritage Origin: https://github.com/nika-sandler/TIFF-Mycophilia
+  Software Heritage SWHID: swh:1:dir:f3f55df109646e369bc933ae658d97457fb71b12
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/f3f55df109646e369bc933ae658d97457fb71b12
+
+  Software Heritage Origin: https://github.com/nika-sandler/plant-and-human-pain
+  Software Heritage SWHID: swh:1:dir:499982723032f0a808561ceb1f096d4d09c9b0d9
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/499982723032f0a808561ceb1f096d4d09c9b0d9
+
+  Software Heritage Origin: https://github.com/nika-sandler/TIFF-Plant-and-Human-Pain
+  Software Heritage SWHID: swh:1:dir:bd43f68420d51134643bcc980a64166e8523a7f2
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/bd43f68420d51134643bcc980a64166e8523a7f2
+
+  Software Heritage Origin: https://github.com/nika-sandler/sensored
+  Software Heritage SWHID: swh:1:dir:35a7286de13827e9507305b38678490b2ef8a13d
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/35a7286de13827e9507305b38678490b2ef8a13d
+
+  Software Heritage Origin: https://github.com/nika-sandler/the-ancient-depths
+  Software Heritage SWHID: swh:1:dir:02a4f6fd9f60e6a6cb3c47c1aff74fdcfdcea8ab
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/02a4f6fd9f60e6a6cb3c47c1aff74fdcfdcea8ab
+
+  Software Heritage Origin: https://github.com/nika-sandler/TIFF-The-Ancient-Depths
+  Software Heritage SWHID: swh:1:dir:02a4f6fd9f60e6a6cb3c47c1aff74fdcfdcea8ab
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/02a4f6fd9f60e6a6cb3c47c1aff74fdcfdcea8ab
+
+  Software Heritage Origin: https://github.com/nika-sandler/the-black-sun
+  Software Heritage SWHID: swh:1:dir:ef787710142563849570b55341dc3de70ceaf725
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/ef787710142563849570b55341dc3de70ceaf725
+
+  Software Heritage Origin: https://github.com/nika-sandler/TIFF-The-Black-Sun
+  Software Heritage SWHID: swh:1:dir:76680c45d88d04c4ae879fa7c2af95db6e2f3589
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/76680c45d88d04c4ae879fa7c2af95db6e2f3589
+
+  Software Heritage Origin: https://github.com/nika-sandler/the-world-of-hedonia
+  Software Heritage SWHID: swh:1:dir:de96767af7dd6ebeff3a2f39d676cb6446650df1
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/de96767af7dd6ebeff3a2f39d676cb6446650df1
+
+  Software Heritage Origin: https://github.com/nika-sandler/TIFF-The-World-of-Hedonia
+  Software Heritage SWHID: swh:1:dir:73b2c502b6dc45e4d8cedafe404cb2c3956be8db
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/swh:1:dir:73b2c502b6dc45e4d8cedafe404cb2c3956be8db
+
+  Software Heritage Origin: https://github.com/nika-sandler/nika-sandler.github.io
+  Software Heritage SWHID: swh:1:dir:84c91487edaeabb94b8bcbfa0ebfd6486a7b403e
+  Software Heritage Snapshot: https://archive.softwareheritage.org/browse/directory/84c91487edaeabb94b8bcbfa0ebfd6486a7b403e
 
 – Rhizome Conifer
   https://conifer.rhizome.org/nika-sandler
